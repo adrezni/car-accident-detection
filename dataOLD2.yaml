@@ -1,0 +1,9 @@
+# class names
+names : ['accident', 'not_accident']
+
+#number of classes
+nc: 2
+
+# location of train and test data
+train: ".data/images/train"
+val: ".data/images/valid"
